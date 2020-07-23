@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352902966022",
+    "firebase_url": "https://chat-8dafe.firebaseio.com",
+    "project_id": "chat-8dafe",
+    "storage_bucket": "chat-8dafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352902966022:android:7dd718e09a38023e520c87",
+        "android_client_info": {
+          "package_name": "co.akki.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352902966022-up04aascdqgav8g4rnn81r6c2cqf4bvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQeQFGcZZByq_0wHceKuVBUERUCiKqmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352902966022-up04aascdqgav8g4rnn81r6c2cqf4bvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
