@@ -42,3 +42,5 @@ class MessageBubble extends StatelessWidget {
     );
   }
 }
+
+// This is a sample text to check whether git is working or not
